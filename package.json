@@ -1,0 +1,22 @@
+{
+  "name": "eslint-custom-rule-no-moment",
+  "version": "1.0.0",
+  "description": "This plugin disallows the usage of the momentjs library.",
+  "main": "eslint-plugin.js",
+  "scripts": {
+    "test": "node forbid-moment.test.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
