@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-no-moment",
+  "name": "@andri-egils/eslint-plugin-no-moment",
   "version": "1.1.0",
   "description": "This plugin disallows the usage of the momentjs library.",
   "main": "eslint-plugin.js",
